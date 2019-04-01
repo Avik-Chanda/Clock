@@ -1,0 +1,36 @@
+div.parent1
+{
+    background-color: lightsalmon;
+    margin : auto;
+    width : 800px; 
+    height : 600px;
+    overflow: auto;
+    text-align: center;
+}
+
+div.gif_image
+{
+    position: relative;
+    margin: auto;
+   
+}
+
+div.writting
+{
+    margin : auto;
+    position : absolute;
+    bottom : 20px;
+    left : 54px;
+    font-size: 40px;
+    text-shadow: 0 0 3px #FF0000;;
+}
+div.time2
+{
+    margin-top : 20px;
+    font-size: 25px;
+}
+
+.heading
+{
+    font-size: 40px;
+}
