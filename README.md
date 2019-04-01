@@ -1,2 +1,2 @@
 # Clock
-JavaScript clock 
+JavaScript clock example 
